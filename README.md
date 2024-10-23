@@ -1,1 +1,1 @@
-# CTSC DevSecps
+# CTSC DevSecOps
